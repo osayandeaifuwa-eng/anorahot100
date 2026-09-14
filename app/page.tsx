@@ -3,25 +3,40 @@ import chartData from "../data/chart.json";
 export default function Home() {
   return (
     <main>
-      <header className="site-header">
-        <h1>ANORA CHARTS</h1>
-        <p>Personal Music Charts</p>
+      <nav className="navbar">
+        <div className="logo">ANORA CHARTS</div>
+
+        <div className="nav-links">
+          <a href="/">HOT 100</a>
+          <a href="#">ARTISTS</a>
+          <a href="#">ALBUMS</a>
+          <a href="#">RECORDS</a>
+          <a href="#">WEEKS</a>
+        </div>
+      </nav>
+
+      <header className="hero">
+        <p className="eyebrow">PERSONAL MUSIC CHART</p>
+        <h1>ANORA HOT 100</h1>
+        <p>
+          Week Ending {chartData.weekEnding}
+        </p>
       </header>
 
-      <section className="chart-header">
-        <h2>{chartData.chartName}</h2>
-        <p>Week Ending {chartData.weekEnding}</p>
-      </section>
-
       <section className="chart">
+        <div className="chart-title">
+          <h2>Weekly Chart</h2>
+          <span>100 SONGS</span>
+        </div>
+
         <div className="chart-row chart-head">
           <span>#</span>
-          <span>Song</span>
-          <span>Artist</span>
+          <span>SONG</span>
+          <span>ARTIST</span>
           <span>LW</span>
-          <span>Peak</span>
-          <span>Wks</span>
-          <span>Plays</span>
+          <span>PEAK</span>
+          <span>WKS</span>
+          <span>PLAYS</span>
         </div>
 
         {chartData.songs.map((song) => (
