@@ -6,7 +6,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #f5f5f5;
+  background: #f4f4f4;
   color: #111;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -16,19 +16,102 @@ body {
 }
 
 main {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 30px 16px 60px;
 }
 
-h1 {
+.site-header {
+  background: #111;
+  color: white;
+  padding: 28px 24px;
+  border-radius: 14px;
+  margin-bottom: 20px;
+}
+
+.site-header h1 {
   margin: 0;
-  font-size: 42px;
+  font-size: 34px;
   font-weight: 900;
-  letter-spacing: -2px;
+  letter-spacing: -1px;
 }
 
-p {
-  font-size: 18px;
-  color: #666;
+.site-header p {
+  margin: 6px 0 0;
+  color: #bbb;
+}
+
+.chart-header {
+  background: white;
+  padding: 22px;
+  border-radius: 14px;
+  margin-bottom: 14px;
+  border: 1px solid #ddd;
+}
+
+.chart-header h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.chart-header p {
+  margin: 6px 0 0;
+  color: #777;
+}
+
+.chart {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.chart-row {
+  display: grid;
+  grid-template-columns: 45px minmax(180px, 2fr) minmax(140px, 1fr) 55px 55px 55px 90px;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.chart-row:last-child {
+  border-bottom: none;
+}
+
+.chart-head {
+  background: #111;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.song {
+  min-width: 0;
+}
+
+.song strong {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 700px) {
+  main {
+    padding: 15px 8px 40px;
+  }
+
+  .site-header h1 {
+    font-size: 27px;
+  }
+
+  .chart {
+    overflow-x: auto;
+  }
+
+  .chart-row {
+    min-width: 750px;
+  }
 }
