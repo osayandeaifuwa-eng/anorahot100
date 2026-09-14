@@ -1,0 +1,51 @@
+{
+  "chartName": "Anora Hot 100",
+  "weekEnding": "September 14, 2026",
+  "songs": [
+    {
+      "rank": 1,
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "plays": 1540,
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 1
+    },
+    {
+      "rank": 2,
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "plays": 1038,
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 1
+    },
+    {
+      "rank": 3,
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "plays": 900,
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 1
+    },
+    {
+      "rank": 4,
+      "title": "Outside",
+      "artist": "Cardi B",
+      "plays": 602,
+      "lastWeek": null,
+      "peak": 4,
+      "weeks": 1
+    },
+    {
+      "rank": 5,
+      "title": "what’s wrong with me",
+      "artist": "Olivia Rodrigo",
+      "plays": 490,
+      "lastWeek": null,
+      "peak": 5,
+      "weeks": 1
+    }
+  ]
+}
