@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -6,7 +7,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #f3f3f3;
   color: #111;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -18,60 +19,115 @@ body {
 main {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 30px 16px 60px;
+  padding: 0 16px 60px;
 }
 
-.site-header {
-  background: #111;
-  color: white;
-  padding: 28px 24px;
-  border-radius: 14px;
-  margin-bottom: 20px;
+/* NAVIGATION */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 22px 0;
+  border-bottom: 1px solid #ddd;
 }
 
-.site-header h1 {
-  margin: 0;
-  font-size: 34px;
+.logo {
+  font-size: 22px;
   font-weight: 900;
   letter-spacing: -1px;
 }
 
-.site-header p {
-  margin: 6px 0 0;
-  color: #bbb;
+.nav-links {
+  display: flex;
+  gap: 22px;
+  flex-wrap: wrap;
 }
 
-.chart-header {
-  background: white;
-  padding: 22px;
-  border-radius: 14px;
-  margin-bottom: 14px;
-  border: 1px solid #ddd;
+.nav-links a {
+  color: #111;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 800;
 }
 
-.chart-header h2 {
-  margin: 0;
-  font-size: 28px;
+.nav-links a:hover {
+  text-decoration: underline;
 }
 
-.chart-header p {
-  margin: 6px 0 0;
+/* HERO */
+
+.hero {
+  padding: 55px 0 35px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 2px;
   color: #777;
 }
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(42px, 8vw, 82px);
+  line-height: 0.95;
+  font-weight: 950;
+  letter-spacing: -5px;
+}
+
+.hero p:last-child {
+  margin-top: 18px;
+  color: #666;
+  font-size: 15px;
+}
+
+/* CHART */
 
 .chart {
   background: white;
   border: 1px solid #ddd;
-  border-radius: 14px;
+  border-radius: 12px;
   overflow: hidden;
 }
 
+.chart-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.chart-title h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.chart-title span {
+  font-size: 11px;
+  font-weight: 800;
+  color: #777;
+}
+
+/* ROWS */
+
 .chart-row {
   display: grid;
-  grid-template-columns: 45px minmax(180px, 2fr) minmax(140px, 1fr) 55px 55px 55px 90px;
+  grid-template-columns:
+    45px
+    minmax(200px, 2fr)
+    minmax(150px, 1fr)
+    55px
+    55px
+    55px
+    90px;
+
   align-items: center;
   gap: 12px;
-  padding: 14px 16px;
+  padding: 15px 18px;
   border-bottom: 1px solid #eee;
 }
 
@@ -82,9 +138,9 @@ main {
 .chart-head {
   background: #111;
   color: white;
-  font-size: 12px;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
 }
 
 .song {
@@ -93,18 +149,41 @@ main {
 
 .song strong {
   display: block;
-  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  white-space: nowrap;
 }
+
+.chart-row > span {
+  font-size: 13px;
+}
+
+.chart-row > strong {
+  font-size: 18px;
+}
+
+/* MOBILE */
 
 @media (max-width: 700px) {
   main {
-    padding: 15px 8px 40px;
+    padding: 0 10px 40px;
   }
 
-  .site-header h1 {
-    font-size: 27px;
+  .navbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .nav-links {
+    gap: 15px;
+  }
+
+  .hero {
+    padding: 40px 0 25px;
+  }
+
+  .hero h1 {
+    letter-spacing: -3px;
   }
 
   .chart {
