@@ -1,0 +1,906 @@
+{
+  "week": "2026-09-14",
+  "title": "Anora Hot 100",
+  "songs": [
+    {
+      "rank": 1,
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "plays": 1540,
+      "lastWeek": null,
+      "peak": 1,
+      "weeks": 1
+    },
+    {
+      "rank": 2,
+      "artist": "Olivia Rodrigo",
+      "title": "the cure",
+      "plays": 1038,
+      "lastWeek": null,
+      "peak": 2,
+      "weeks": 1
+    },
+    {
+      "rank": 3,
+      "artist": "Olivia Rodrigo",
+      "title": "stupid song",
+      "plays": 900,
+      "lastWeek": null,
+      "peak": 3,
+      "weeks": 1
+    },
+    {
+      "rank": 4,
+      "artist": "Cardi B",
+      "title": "Outside",
+      "plays": 602,
+      "lastWeek": null,
+      "peak": 4,
+      "weeks": 1
+    },
+    {
+      "rank": 5,
+      "artist": "Olivia Rodrigo",
+      "title": "what’s wrong with me",
+      "plays": 490,
+      "lastWeek": null,
+      "peak": 5,
+      "weeks": 1
+    },
+    {
+      "rank": 6,
+      "artist": "Olivia Rodrigo",
+      "title": "honeybee",
+      "plays": 482,
+      "lastWeek": null,
+      "peak": 6,
+      "weeks": 1
+    },
+    {
+      "rank": 7,
+      "artist": "Olivia Rodrigo",
+      "title": "vampire",
+      "plays": 430,
+      "lastWeek": null,
+      "peak": 7,
+      "weeks": 1
+    },
+    {
+      "rank": 8,
+      "artist": "Olivia Rodrigo",
+      "title": "less",
+      "plays": 419,
+      "lastWeek": null,
+      "peak": 8,
+      "weeks": 1
+    },
+    {
+      "rank": 9,
+      "artist": "Olivia Rodrigo",
+      "title": "get him back!",
+      "plays": 410,
+      "lastWeek": null,
+      "peak": 9,
+      "weeks": 1
+    },
+    {
+      "rank": 10,
+      "artist": "Olivia Rodrigo",
+      "title": "all-american bitch",
+      "plays": 389,
+      "lastWeek": null,
+      "peak": 10,
+      "weeks": 1
+    },
+    {
+      "rank": 11,
+      "artist": "Olivia Rodrigo",
+      "title": "deja vu",
+      "plays": 388,
+      "lastWeek": null,
+      "peak": 11,
+      "weeks": 1
+    },
+    {
+      "rank": 12,
+      "artist": "Olivia Rodrigo",
+      "title": "u + me = <3",
+      "plays": 385,
+      "lastWeek": null,
+      "peak": 12,
+      "weeks": 1
+    },
+    {
+      "rank": 13,
+      "artist": "Olivia Rodrigo",
+      "title": "traitor",
+      "plays": 382,
+      "lastWeek": null,
+      "peak": 13,
+      "weeks": 1
+    },
+    {
+      "rank": 14,
+      "artist": "Olivia Rodrigo",
+      "title": "maggots for brains",
+      "plays": 381,
+      "lastWeek": null,
+      "peak": 14,
+      "weeks": 1
+    },
+    {
+      "rank": 15,
+      "artist": "Olivia Rodrigo",
+      "title": "cigarette smoke",
+      "plays": 364,
+      "lastWeek": null,
+      "peak": 15,
+      "weeks": 1
+    },
+    {
+      "rank": 16,
+      "artist": "Cardi B",
+      "title": "Like What (Freestyle)",
+      "plays": 354,
+      "lastWeek": null,
+      "peak": 16,
+      "weeks": 1
+    },
+    {
+      "rank": 17,
+      "artist": "Olivia Rodrigo",
+      "title": "purple",
+      "plays": 340,
+      "lastWeek": null,
+      "peak": 17,
+      "weeks": 1
+    },
+    {
+      "rank": 18,
+      "artist": "Olivia Rodrigo",
+      "title": "jealousy, jealousy",
+      "plays": 340,
+      "lastWeek": null,
+      "peak": 18,
+      "weeks": 1
+    },
+    {
+      "rank": 19,
+      "artist": "Olivia Rodrigo",
+      "title": "begged",
+      "plays": 338,
+      "lastWeek": null,
+      "peak": 19,
+      "weeks": 1
+    },
+    {
+      "rank": 20,
+      "artist": "Taylor Swift",
+      "title": "cardigan",
+      "plays": 332,
+      "lastWeek": null,
+      "peak": 20,
+      "weeks": 1
+    },
+    {
+      "rank": 21,
+      "artist": "Olivia Rodrigo",
+      "title": "expectations",
+      "plays": 324,
+      "lastWeek": null,
+      "peak": 21,
+      "weeks": 1
+    },
+    {
+      "rank": 22,
+      "artist": "Cardi B",
+      "title": "WAP (feat. Megan Thee Stallion)",
+      "plays": 320,
+      "lastWeek": null,
+      "peak": 22,
+      "weeks": 1
+    },
+    {
+      "rank": 23,
+      "artist": "Taylor Swift",
+      "title": "Cruel Summer",
+      "plays": 315,
+      "lastWeek": null,
+      "peak": 23,
+      "weeks": 1
+    },
+    {
+      "rank": 24,
+      "artist": "Olivia Rodrigo",
+      "title": "love is embarrassing",
+      "plays": 313,
+      "lastWeek": null,
+      "peak": 24,
+      "weeks": 1
+    },
+    {
+      "rank": 25,
+      "artist": "Ayra Starr",
+      "title": "Hot Body",
+      "plays": 309,
+      "lastWeek": null,
+      "peak": 25,
+      "weeks": 1
+    },
+    {
+      "rank": 26,
+      "artist": "Olivia Rodrigo",
+      "title": "my way",
+      "plays": 304,
+      "lastWeek": null,
+      "peak": 26,
+      "weeks": 1
+    },
+    {
+      "rank": 27,
+      "artist": "Olivia Rodrigo",
+      "title": "good 4 u",
+      "plays": 303,
+      "lastWeek": null,
+      "peak": 27,
+      "weeks": 1
+    },
+    {
+      "rank": 28,
+      "artist": "Olivia Rodrigo",
+      "title": "pretty isn’t pretty",
+      "plays": 302,
+      "lastWeek": null,
+      "peak": 28,
+      "weeks": 1
+    },
+    {
+      "rank": 29,
+      "artist": "Olivia Rodrigo",
+      "title": "the grudge",
+      "plays": 298,
+      "lastWeek": null,
+      "peak": 29,
+      "weeks": 1
+    },
+    {
+      "rank": 30,
+      "artist": "Olivia Rodrigo",
+      "title": "Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "plays": 291,
+      "lastWeek": null,
+      "peak": 30,
+      "weeks": 1
+    },
+    {
+      "rank": 31,
+      "artist": "Olivia Rodrigo",
+      "title": "brutal",
+      "plays": 282,
+      "lastWeek": null,
+      "peak": 31,
+      "weeks": 1
+    },
+    {
+      "rank": 32,
+      "artist": "Cardi B",
+      "title": "Up",
+      "plays": 281,
+      "lastWeek": null,
+      "peak": 32,
+      "weeks": 1
+    },
+    {
+      "rank": 33,
+      "artist": "Olivia Rodrigo",
+      "title": "lacy",
+      "plays": 279,
+      "lastWeek": null,
+      "peak": 33,
+      "weeks": 1
+    },
+    {
+      "rank": 34,
+      "artist": "Olivia Rodrigo",
+      "title": "favorite crime",
+      "plays": 275,
+      "lastWeek": null,
+      "peak": 34,
+      "weeks": 1
+    },
+    {
+      "rank": 35,
+      "artist": "Flo Milli",
+      "title": "Never Lose Me (feat. SZA & Cardi B)",
+      "plays": 272,
+      "lastWeek": null,
+      "peak": 35,
+      "weeks": 1
+    },
+    {
+      "rank": 36,
+      "artist": "Olivia Rodrigo",
+      "title": "logical",
+      "plays": 271,
+      "lastWeek": null,
+      "peak": 36,
+      "weeks": 1
+    },
+    {
+      "rank": 37,
+      "artist": "Olivia Rodrigo",
+      "title": "bad idea right?",
+      "plays": 266,
+      "lastWeek": null,
+      "peak": 37,
+      "weeks": 1
+    },
+    {
+      "rank": 38,
+      "artist": "Sabrina Carpenter",
+      "title": "Manchild",
+      "plays": 264,
+      "lastWeek": null,
+      "peak": 38,
+      "weeks": 1
+    },
+    {
+      "rank": 39,
+      "artist": "Cardi B",
+      "title": "Enough (Miami)",
+      "plays": 262,
+      "lastWeek": null,
+      "peak": 39,
+      "weeks": 1
+    },
+    {
+      "rank": 40,
+      "artist": "Ayra Starr",
+      "title": "Who’s Dat Girl",
+      "plays": 258,
+      "lastWeek": null,
+      "peak": 40,
+      "weeks": 1
+    },
+    {
+      "rank": 41,
+      "artist": "Ariana Grande",
+      "title": "we can't be friends (wait for your love)",
+      "plays": 256,
+      "lastWeek": null,
+      "peak": 41,
+      "weeks": 1
+    },
+    {
+      "rank": 42,
+      "artist": "Olivia Rodrigo",
+      "title": "so american",
+      "plays": 254,
+      "lastWeek": null,
+      "peak": 42,
+      "weeks": 1
+    },
+    {
+      "rank": 43,
+      "artist": "Olivia Rodrigo",
+      "title": "drivers license",
+      "plays": 246,
+      "lastWeek": null,
+      "peak": 43,
+      "weeks": 1
+    },
+    {
+      "rank": 44,
+      "artist": "Doja Cat",
+      "title": "Kiss Me More (feat. SZA)",
+      "plays": 243,
+      "lastWeek": null,
+      "peak": 44,
+      "weeks": 1
+    },
+    {
+      "rank": 45,
+      "artist": "Cardi B",
+      "title": "Imaginary Playerz",
+      "plays": 242,
+      "lastWeek": null,
+      "peak": 45,
+      "weeks": 1
+    },
+    {
+      "rank": 46,
+      "artist": "Olivia Rodrigo",
+      "title": "serena joy",
+      "plays": 241,
+      "lastWeek": null,
+      "peak": 46,
+      "weeks": 1
+    },
+    {
+      "rank": 47,
+      "artist": "Olivia Rodrigo",
+      "title": "happier",
+      "plays": 233,
+      "lastWeek": null,
+      "peak": 47,
+      "weeks": 1
+    },
+    {
+      "rank": 48,
+      "artist": "Olivia Rodrigo",
+      "title": "enough for you",
+      "plays": 218,
+      "lastWeek": null,
+      "peak": 48,
+      "weeks": 1
+    },
+    {
+      "rank": 49,
+      "artist": "Chappell Roan",
+      "title": "Good Luck, Babe!",
+      "plays": 215,
+      "lastWeek": null,
+      "peak": 49,
+      "weeks": 1
+    },
+    {
+      "rank": 50,
+      "artist": "Olivia Rodrigo",
+      "title": "1 step forward, 3 steps back",
+      "plays": 214,
+      "lastWeek": null,
+      "peak": 50,
+      "weeks": 1
+    },
+    {
+      "rank": 51,
+      "artist": "Sabrina Carpenter",
+      "title": "Espresso",
+      "plays": 214,
+      "lastWeek": null,
+      "peak": 51,
+      "weeks": 1
+    },
+    {
+      "rank": 52,
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "plays": 213,
+      "lastWeek": null,
+      "peak": 52,
+      "weeks": 1
+    },
+    {
+      "rank": 53,
+      "artist": "Taylor Swift",
+      "title": "august",
+      "plays": 203,
+      "lastWeek": null,
+      "peak": 53,
+      "weeks": 1
+    },
+    {
+      "rank": 54,
+      "artist": "Olivia Rodrigo",
+      "title": "teenage dream",
+      "plays": 192,
+      "lastWeek": null,
+      "peak": 54,
+      "weeks": 1
+    },
+    {
+      "rank": 55,
+      "artist": "Olivia Rodrigo",
+      "title": "All I Want - From \"High School Musical: The Musical: The Series\"",
+      "plays": 192,
+      "lastWeek": null,
+      "peak": 55,
+      "weeks": 1
+    },
+    {
+      "rank": 56,
+      "artist": "Sabrina Carpenter",
+      "title": "Tears",
+      "plays": 191,
+      "lastWeek": null,
+      "peak": 56,
+      "weeks": 1
+    },
+    {
+      "rank": 57,
+      "artist": "Sabrina Carpenter",
+      "title": "Please Please Please",
+      "plays": 189,
+      "lastWeek": null,
+      "peak": 57,
+      "weeks": 1
+    },
+    {
+      "rank": 58,
+      "artist": "Olivia Rodrigo",
+      "title": "making the bed",
+      "plays": 186,
+      "lastWeek": null,
+      "peak": 58,
+      "weeks": 1
+    },
+    {
+      "rank": 59,
+      "artist": "Sabrina Carpenter",
+      "title": "Taste",
+      "plays": 183,
+      "lastWeek": null,
+      "peak": 59,
+      "weeks": 1
+    },
+    {
+      "rank": 60,
+      "artist": "SZA",
+      "title": "Kill Bill",
+      "plays": 180,
+      "lastWeek": null,
+      "peak": 60,
+      "weeks": 1
+    },
+    {
+      "rank": 61,
+      "artist": "Olivia Rodrigo",
+      "title": "hope ur ok",
+      "plays": 176,
+      "lastWeek": null,
+      "peak": 61,
+      "weeks": 1
+    },
+    {
+      "rank": 62,
+      "artist": "Ariana Grande",
+      "title": "bye",
+      "plays": 173,
+      "lastWeek": null,
+      "peak": 62,
+      "weeks": 1
+    },
+    {
+      "rank": 63,
+      "artist": "Cardi B",
+      "title": "AH HA",
+      "plays": 172,
+      "lastWeek": null,
+      "peak": 63,
+      "weeks": 1
+    },
+    {
+      "rank": 64,
+      "artist": "Gracie Abrams",
+      "title": "I Love You, I'm Sorry",
+      "plays": 172,
+      "lastWeek": null,
+      "peak": 64,
+      "weeks": 1
+    },
+    {
+      "rank": 65,
+      "artist": "Tyla",
+      "title": "PUSH 2 START",
+      "plays": 171,
+      "lastWeek": null,
+      "peak": 65,
+      "weeks": 1
+    },
+    {
+      "rank": 66,
+      "artist": "Ayra Starr",
+      "title": "Tornado",
+      "plays": 169,
+      "lastWeek": null,
+      "peak": 66,
+      "weeks": 1
+    },
+    {
+      "rank": 67,
+      "artist": "Doja Cat",
+      "title": "I Don't Do Drugs (feat. Ariana Grande)",
+      "plays": 169,
+      "lastWeek": null,
+      "peak": 67,
+      "weeks": 1
+    },
+    {
+      "rank": 68,
+      "artist": "Cardi B",
+      "title": "Bongos (feat. Megan Thee Stallion)",
+      "plays": 169,
+      "lastWeek": null,
+      "peak": 68,
+      "weeks": 1
+    },
+    {
+      "rank": 69,
+      "artist": "Taylor Swift",
+      "title": "Fortnight (feat. Post Malone)",
+      "plays": 168,
+      "lastWeek": null,
+      "peak": 69,
+      "weeks": 1
+    },
+    {
+      "rank": 70,
+      "artist": "Tate McRae",
+      "title": "greedy",
+      "plays": 168,
+      "lastWeek": null,
+      "peak": 70,
+      "weeks": 1
+    },
+    {
+      "rank": 71,
+      "artist": "Ariana Grande",
+      "title": "yes, and?",
+      "plays": 161,
+      "lastWeek": null,
+      "peak": 71,
+      "weeks": 1
+    },
+    {
+      "rank": 72,
+      "artist": "Taylor Swift",
+      "title": "Getaway Car",
+      "plays": 159,
+      "lastWeek": null,
+      "peak": 72,
+      "weeks": 1
+    },
+    {
+      "rank": 73,
+      "artist": "Kendrick Lamar",
+      "title": "luther (with SZA)",
+      "plays": 158,
+      "lastWeek": null,
+      "peak": 73,
+      "weeks": 1
+    },
+    {
+      "rank": 74,
+      "artist": "Ayra Starr",
+      "title": "Where Do We Go",
+      "plays": 158,
+      "lastWeek": null,
+      "peak": 74,
+      "weeks": 1
+    },
+    {
+      "rank": 75,
+      "artist": "Taylor Swift",
+      "title": "Don’t Blame Me",
+      "plays": 157,
+      "lastWeek": null,
+      "peak": 75,
+      "weeks": 1
+    },
+    {
+      "rank": 76,
+      "artist": "Tate McRae",
+      "title": "exes",
+      "plays": 156,
+      "lastWeek": null,
+      "peak": 76,
+      "weeks": 1
+    },
+    {
+      "rank": 77,
+      "artist": "Cardi B",
+      "title": "I Like It",
+      "plays": 155,
+      "lastWeek": null,
+      "peak": 77,
+      "weeks": 1
+    },
+    {
+      "rank": 78,
+      "artist": "Taylor Swift",
+      "title": "I Can Do It with a Broken Heart",
+      "plays": 152,
+      "lastWeek": null,
+      "peak": 78,
+      "weeks": 1
+    },
+    {
+      "rank": 79,
+      "artist": "Gracie Abrams",
+      "title": "That’s So True",
+      "plays": 152,
+      "lastWeek": null,
+      "peak": 79,
+      "weeks": 1
+    },
+    {
+      "rank": 80,
+      "artist": "Taylor Swift",
+      "title": "Lover",
+      "plays": 150,
+      "lastWeek": null,
+      "peak": 80,
+      "weeks": 1
+    },
+    {
+      "rank": 81,
+      "artist": "Bruno Mars",
+      "title": "Finesse - Remix; feat. Cardi B",
+      "plays": 149,
+      "lastWeek": null,
+      "peak": 81,
+      "weeks": 1
+    },
+    {
+      "rank": 82,
+      "artist": "Ariana Grande",
+      "title": "the boy is mine",
+      "plays": 148,
+      "lastWeek": null,
+      "peak": 82,
+      "weeks": 1
+    },
+    {
+      "rank": 83,
+      "artist": "Beyoncé",
+      "title": "TEXAS HOLD 'EM",
+      "plays": 146,
+      "lastWeek": null,
+      "peak": 83,
+      "weeks": 1
+    },
+    {
+      "rank": 84,
+      "artist": "Sabrina Carpenter",
+      "title": "Bed Chem",
+      "plays": 146,
+      "lastWeek": null,
+      "peak": 84,
+      "weeks": 1
+    },
+    {
+      "rank": 85,
+      "artist": "Doja Cat",
+      "title": "Ain't Shit",
+      "plays": 144,
+      "lastWeek": null,
+      "peak": 85,
+      "weeks": 1
+    },
+    {
+      "rank": 86,
+      "artist": "Taylor Swift",
+      "title": "Anti-Hero",
+      "plays": 143,
+      "lastWeek": null,
+      "peak": 86,
+      "weeks": 1
+    },
+    {
+      "rank": 87,
+      "artist": "Tyla",
+      "title": "Jump",
+      "plays": 142,
+      "lastWeek": null,
+      "peak": 87,
+      "weeks": 1
+    },
+    {
+      "rank": 88,
+      "artist": "Olivia Rodrigo",
+      "title": "ballad of a homeschooled girl",
+      "plays": 142,
+      "lastWeek": null,
+      "peak": 88,
+      "weeks": 1
+    },
+    {
+      "rank": 89,
+      "artist": "Taylor Swift",
+      "title": "You're on Your Own, Kid",
+      "plays": 141,
+      "lastWeek": null,
+      "peak": 89,
+      "weeks": 1
+    },
+    {
+      "rank": 90,
+      "artist": "Ayra Starr",
+      "title": "Gimme Dat (feat. Wizkid)",
+      "plays": 141,
+      "lastWeek": null,
+      "peak": 90,
+      "weeks": 1
+    },
+    {
+      "rank": 91,
+      "artist": "Cardi B",
+      "title": "Pretty & Petty",
+      "plays": 140,
+      "lastWeek": null,
+      "peak": 91,
+      "weeks": 1
+    },
+    {
+      "rank": 92,
+      "artist": "Sabrina Carpenter",
+      "title": "Nonsense",
+      "plays": 140,
+      "lastWeek": null,
+      "peak": 92,
+      "weeks": 1
+    },
+    {
+      "rank": 93,
+      "artist": "GloRilla",
+      "title": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
+      "plays": 140,
+      "lastWeek": null,
+      "peak": 93,
+      "weeks": 1
+    },
+    {
+      "rank": 94,
+      "artist": "Taylor Swift",
+      "title": "my tears ricochet",
+      "plays": 139,
+      "lastWeek": null,
+      "peak": 94,
+      "weeks": 1
+    },
+    {
+      "rank": 95,
+      "artist": "Taylor Swift",
+      "title": "Love Story (Taylor’s Version)",
+      "plays": 138,
+      "lastWeek": null,
+      "peak": 95,
+      "weeks": 1
+    },
+    {
+      "rank": 96,
+      "artist": "Beyoncé",
+      "title": "Crazy in Love (feat. JAY-Z)",
+      "plays": 136,
+      "lastWeek": null,
+      "peak": 96,
+      "weeks": 1
+    },
+    {
+      "rank": 97,
+      "artist": "Sabrina Carpenter",
+      "title": "House Tour",
+      "plays": 136,
+      "lastWeek": null,
+      "peak": 97,
+      "weeks": 1
+    },
+    {
+      "rank": 98,
+      "artist": "Tyla",
+      "title": "Truth or dare",
+      "plays": 135,
+      "lastWeek": null,
+      "peak": 98,
+      "weeks": 1
+    },
+    {
+      "rank": 99,
+      "artist": "Tems",
+      "title": "Love Me JeJe",
+      "plays": 134,
+      "lastWeek": null,
+      "peak": 99,
+      "weeks": 1
+    },
+    {
+      "rank": 100,
+      "artist": "Beyoncé",
+      "title": "Irreplaceable",
+      "plays": 134,
+      "lastWeek": null,
+      "peak": 100,
+      "weeks": 1
+    }
+  ]
+}
