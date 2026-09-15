@@ -8,7 +8,7 @@ import chartData from "../../../data/chart.json";export default function WeeklyP
 
         <div className="nav-links">
           <a href="/">HOT 100</a>
-          <a href="/weekly">WEEKS</a>
+          <a href="/app/weekly">WEEKS</a>
           <a href="/artists">ARTISTS</a>
           <a href="/albums">ALBUMS</a>
           <a href="/records">RECORDS</a>
