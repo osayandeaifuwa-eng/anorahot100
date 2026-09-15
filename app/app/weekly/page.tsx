@@ -1,6 +1,4 @@
-import chartData from "../../data/chart.json";
-
-export default function WeeklyPage() {
+import chartData from "../../../data/chart.json";export default function WeeklyPage() {
   return (
     <main>
       <nav className="navbar">
